@@ -1,1 +1,3 @@
-/yooooo ibro
+import play
+
+play.start_program()
